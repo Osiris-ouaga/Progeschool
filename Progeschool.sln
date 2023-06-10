@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33717.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scaffolding", "Scaffolding\Scaffolding.csproj", "{5087363D-3C69-4989-8B7E-2A4F220628A7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "Business\Business.csproj", "{CCDB4195-A7A0-4BA0-87C8-A3BDE37A917F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bridge", "Bridge\Bridge.csproj", "{4D5D637D-A533-4D26-8D85-C09DE499313F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5087363D-3C69-4989-8B7E-2A4F220628A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5087363D-3C69-4989-8B7E-2A4F220628A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5087363D-3C69-4989-8B7E-2A4F220628A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5087363D-3C69-4989-8B7E-2A4F220628A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCDB4195-A7A0-4BA0-87C8-A3BDE37A917F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCDB4195-A7A0-4BA0-87C8-A3BDE37A917F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCDB4195-A7A0-4BA0-87C8-A3BDE37A917F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCDB4195-A7A0-4BA0-87C8-A3BDE37A917F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D5D637D-A533-4D26-8D85-C09DE499313F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D5D637D-A533-4D26-8D85-C09DE499313F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D5D637D-A533-4D26-8D85-C09DE499313F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D5D637D-A533-4D26-8D85-C09DE499313F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {153AB853-9D69-4E17-873B-CF436A2C4542}
+	EndGlobalSection
+EndGlobal
